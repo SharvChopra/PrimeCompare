@@ -1,6 +1,6 @@
 # PrimeCompare
 
-PrimeCompare is a smart product comparison and analysis platform that helps users make informed buying decisions. It leverages AI and web scraping to provide detailed insights, sentiment analysis, and product comparisons.
+**PrimeCompare** is an AI-driven product comparison platform that analyzes expert reviews to deliver clear pros, cons, and smart purchase insights. It helps users make informed buying decisions by leveraging AI and web scraping to provide detailed comparisons and sentiment analysis.
 
 ## Features
 
